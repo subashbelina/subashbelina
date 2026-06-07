@@ -7,6 +7,11 @@
 <h3 align="center">IBM Certified Full-Stack JavaScript Developer (MERN) | Cloud | CI/CD</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Available_for_Freelance-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Freelance"/>
+  <img src="https://img.shields.io/badge/Remote_Worldwide-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Remote Worldwide"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/subashbelina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -26,9 +31,36 @@
 
 ---
 
-I'm **Subash Rai**, an **IBM Certified Full-Stack JavaScript Developer** specializing in the **MERN stack**—MongoDB, PostgreSQL, Supabase, Firebase, Express, React, Next.js, and Node.js. I also build mobile apps with **React Native (Expo)** and **EAS Build** for Android and iOS deployment.
+I'm **Subash Rai**, an **IBM Certified Full-Stack JavaScript Developer** who helps startups and businesses ship **production-ready web apps, mobile apps, and AI-powered SaaS products**.
 
-I deliver scalable web and mobile applications, APIs, and polished UIs using **React, Next.js, Tailwind CSS**, and modern UI libraries. Experienced in **Docker, Kubernetes**, and cloud deployment, I focus on clean code, performance, and production-ready solutions.
+I specialize in the **MERN stack**—MongoDB, PostgreSQL, Supabase, Firebase, Express, React, Next.js, and Node.js—and build mobile apps with **React Native (Expo)** and **EAS Build** for Android and iOS. From MVP to deployment, I deliver clean code, scalable APIs, polished UIs, and reliable cloud hosting.
+
+**Looking for a developer?** [Email me](mailto:subasbelina255@gmail.com) or [visit my portfolio](https://raisubash.com.np/) to discuss your project.
+
+---
+
+### 💼 Freelance Services
+
+| Service | What You Get |
+|--------|--------------|
+| **Full-Stack Web Apps** | MERN / Next.js apps with auth, dashboards, admin panels, and REST APIs |
+| **AI SaaS Products** | OpenAI & Gemini integration — chatbots, content tools, automation workflows |
+| **Mobile Apps** | React Native (Expo) apps for Android & iOS with EAS Build deployment |
+| **API Development** | Secure REST APIs, JWT auth, Swagger docs, third-party integrations |
+| **UI/UX Implementation** | Responsive interfaces with React, Tailwind CSS, shadcn/ui, and Material UI |
+| **DevOps & Deployment** | Docker, Kubernetes, CI/CD pipelines, Vercel, Render, and Netlify setup |
+
+**Typical projects:** SaaS platforms · e-commerce · healthcare portals · admin dashboards · portfolio sites · AI tools
+
+---
+
+### 🤝 Why Work With Me
+
+- ✅ **IBM Certified** Full-Stack JavaScript Developer with verified [Credly badges](https://www.credly.com/users/subash-rai.2708871f/badges#credly)
+- ✅ **Live demos** — see real deployed projects below, not just mockups
+- ✅ **End-to-end delivery** — frontend, backend, database, and cloud deployment
+- ✅ **Remote-friendly** — based in Nepal, available for clients worldwide
+- ✅ **Clear communication** — regular updates, clean code, and documented handoff
 
 ---
 
@@ -162,7 +194,7 @@ I deliver scalable web and mobile applications, APIs, and polished UIs using **R
 
 **Key capabilities across projects:** AI API integration · RESTful APIs · JWT authentication · responsive UI · Docker · cloud deployment · production-ready architecture
 
-👉 *See [pinned repositories](https://github.com/subashbelina) for more details.*
+👉 *These are sample projects I can build for clients — [get in touch](mailto:subasbelina255@gmail.com) to discuss yours.*
 
 ---
 
@@ -215,31 +247,34 @@ I deliver scalable web and mobile applications, APIs, and polished UIs using **R
 
 ---
 
-### 💼 Currently Working On
+### 🚀 Available For
 
-- 📱 Building React Native (Expo) mobile apps with EAS Build for Android & iOS
-- 🤖 Shipping AI-powered SaaS products with OpenAI API integration
-- 🔨 Designing scalable microservices and RESTful API architectures
-- 🚀 Improving Docker, Kubernetes, and CI/CD deployment workflows
+- 🌐 Full-stack web development (React, Next.js, Node.js, MERN)
+- 📱 Cross-platform mobile apps (React Native + Expo)
+- 🤖 AI-powered features and SaaS product development
+- ☁️ Cloud deployment, Docker, Kubernetes, and CI/CD setup
+- 🔧 Bug fixes, feature additions, and project rescue
 
 ---
 
-### 📬 Connect with Me
+### 📬 Hire Me
 
 <p align="center">
-  <a href="mailto:subasbelina255@gmail.com">
-    <img src="https://img.shields.io/badge/Email-subasbelina255@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/subashbelina">
-    <img src="https://img.shields.io/badge/GitHub-subashbelina-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/subash-rai-163881360/">
-    <img src="https://img.shields.io/badge/LinkedIn-Subash_Rai-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:subasbelina255@gmail.com?subject=Freelance%20Project%20Inquiry">
+    <img src="https://img.shields.io/badge/📩_Hire_Me-subasbelina255@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/>
   </a>
   <a href="https://raisubash.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/View_Portfolio-raisubash.com.np-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/subash-rai-163881360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.credly.com/users/subash-rai.2708871f/badges#credly">
+    <img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
 </p>
+
+<p align="center"><strong>Have a project in mind? Send me an email with a brief description — I'll reply within 24 hours.</strong></p>
 
 ---
 
@@ -247,7 +282,7 @@ I deliver scalable web and mobile applications, APIs, and polished UIs using **R
   
 ![Profile Views](https://komarev.com/ghpvc/?username=subashbelina&color=FF6B6B&style=flat-square)
 
-**Thanks for visiting! ⭐️ Star my repositories if you find them interesting!**
+**Thanks for visiting! Have a project? [Let's work together →](mailto:subasbelina255@gmail.com?subject=Freelance%20Project%20Inquiry)**
 
 </div>
 
