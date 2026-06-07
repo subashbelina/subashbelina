@@ -10,6 +10,9 @@
   <a href="https://github.com/subashbelina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.credly.com/users/subash-rai.2708871f/badges#credly">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
   <a href="https://www.linkedin.com/in/subash-rai-163881360/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -167,11 +170,11 @@ I deliver scalable web and mobile applications, APIs, and polished UIs using **R
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subashbelina&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=subashbelina&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashbelina&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=subashbelina&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=subashbelina&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subashbelina&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
