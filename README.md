@@ -245,6 +245,43 @@ I specialize in the **MERN stack**—MongoDB, PostgreSQL, Supabase, Firebase, Ex
 
 👉 [**View all badges on Credly**](https://www.credly.com/users/subash-rai.2708871f/badges#credly)
 
+<details>
+<summary><strong>📜 IBM / Coursera Course Certificates (click to expand)</strong></summary>
+
+<br/>
+
+<p align="center">
+  <a href="https://coursera.org/verify/AMN2U2M8C6GE" title="Introduction to Software Engineering">
+    <img src="assets/certificates/software-engineering.jpeg" alt="Introduction to Software Engineering" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/FM81356IHQDE" title="Introduction to Cloud Computing">
+    <img src="assets/certificates/cloud-computing.jpeg" alt="Introduction to Cloud Computing" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/SIZY5GHLNLEN" title="Introduction to HTML, CSS, & JavaScript">
+    <img src="assets/certificates/html-css-javascript.jpeg" alt="Introduction to HTML, CSS, & JavaScript" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/738XMZNVNX8F" title="Getting Started with Git and GitHub">
+    <img src="assets/certificates/git-github.jpeg" alt="Getting Started with Git and GitHub" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/NCEA15QJUUHV" title="Developing Front-End Apps with React">
+    <img src="assets/certificates/frontend-react.jpeg" alt="Developing Front-End Apps with React" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/B06IE5M1B8DB" title="Developing Back-End Apps with Node.js and Express">
+    <img src="assets/certificates/backend-nodejs-express.jpeg" alt="Developing Back-End Apps with Node.js and Express" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/I0KBD0HU4KY6" title="JavaScript Programming Essentials">
+    <img src="assets/certificates/javascript-programming.jpeg" alt="JavaScript Programming Essentials" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/16VX1VKTMGG2" title="Get Started with Cloud Native, DevOps, Agile, and NoSQL">
+    <img src="assets/certificates/cloud-native-devops.jpeg" alt="Get Started with Cloud Native, DevOps, Agile, and NoSQL" width="420"/>
+  </a>
+  <a href="https://coursera.org/verify/CRND95LINS2V" title="Introduction to Containers w/ Docker, Kubernetes & OpenShift">
+    <img src="assets/certificates/containers-kubernetes.jpeg" alt="Introduction to Containers w/ Docker, Kubernetes & OpenShift" width="420"/>
+  </a>
+</p>
+
+</details>
+
 ---
 
 ### 🚀 Available For
