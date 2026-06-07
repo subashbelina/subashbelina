@@ -183,8 +183,35 @@ I deliver scalable web and mobile applications, APIs, and polished UIs using **R
 ### 🏆 Certifications & Achievements
 
 - ✅ [**IBM Certified Full-Stack JavaScript Developer (MERN)**](https://www.credly.com/users/subash-rai.2708871f)
-- ✅ Cloud & CI/CD Expertise
-- ✅ DevOps Pipeline Implementation
+
+<p align="center">
+  <a href="https://www.credly.com/badges/349befd9-4f77-414f-a87c-f0e1fb410519" title="Introduction to HTML, CSS, & JavaScript">
+    <img src="assets/credly-badges/html-css-javascript.jpeg" alt="Introduction to HTML, CSS, & JavaScript" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/e29b5031-570f-41c1-a7bf-cc2576995d23" title="Introduction to Cloud Computing">
+    <img src="assets/credly-badges/cloud-computing.jpeg" alt="Introduction to Cloud Computing" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/49c455bc-49f9-4d11-a8d0-49a2cfd9cb01" title="Software Engineering Essentials">
+    <img src="assets/credly-badges/software-engineering.jpeg" alt="Software Engineering Essentials" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/3a04404c-c984-4e29-abf6-abe1ef4af69b" title="JavaScript Programming Essentials">
+    <img src="assets/credly-badges/javascript-programming.jpeg" alt="JavaScript Programming Essentials" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/55e3ff0d-2f61-4ace-a43f-b0236f9022de" title="Front-end Development with React">
+    <img src="assets/credly-badges/frontend-react.jpeg" alt="Front-end Development with React" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/976488de-a0d3-4ebd-9252-077d3084e120" title="Node and Express Essentials">
+    <img src="assets/credly-badges/backend-nodejs.jpeg" alt="Node and Express Essentials" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/e8227270-5031-4dd2-9dca-0c0b0c44948f" title="Cloud Native, DevOps, Agile & NoSQL Essentials">
+    <img src="assets/credly-badges/cloud-native-devops.jpeg" alt="Cloud Native, DevOps, Agile & NoSQL Essentials" width="130"/>
+  </a>
+  <a href="https://www.credly.com/badges/f07cc52c-38d3-4df3-8dc7-c4ff1e469006" title="Containers & Kubernetes Essentials">
+    <img src="assets/credly-badges/containers-kubernetes.jpeg" alt="Containers & Kubernetes Essentials" width="130"/>
+  </a>
+</p>
+
+👉 [**View all badges on Credly**](https://www.credly.com/users/subash-rai.2708871f/badges#credly)
 
 ---
 
