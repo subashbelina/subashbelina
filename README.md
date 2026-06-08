@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">IBM Certified Full-Stack JavaScript Developer (MERN) | Cloud | CI/CD</h3>
+<h3 align="center">IBM Certified Full Stack JavaScript Developer | AI-Powered Web Apps | Cloud | CI/CD</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Available_for_Freelance-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Freelance"/>
@@ -31,9 +31,9 @@
 
 ---
 
-I'm **Subash Rai**, an **IBM Certified Full-Stack JavaScript Developer** who helps startups and businesses ship **production-ready web apps, mobile apps, and AI-powered SaaS products**.
+I'm **Subash Rai**, an **IBM Certified Full Stack JavaScript Developer** specializing in **AI-powered web apps** and the **MERN stack**—MongoDB, PostgreSQL, Supabase, Firebase, Express, React, Next.js, and Node.js. I also build mobile apps with **React Native (Expo)** and **EAS Build** for Android and iOS deployment.
 
-I specialize in the **MERN stack**—MongoDB, PostgreSQL, Supabase, Firebase, Express, React, Next.js, and Node.js—and build mobile apps with **React Native (Expo)** and **EAS Build** for Android and iOS. From MVP to deployment, I deliver clean code, scalable APIs, polished UIs, and reliable cloud hosting.
+I deliver scalable web and mobile applications, APIs, and polished UIs using **React, Next.js, Tailwind CSS**, and modern UI libraries. Experienced in **Docker, Kubernetes**, and cloud deployment, I focus on clean code, performance, and production-ready solutions.
 
 **Looking for a developer?** [Email me](mailto:subasbelina255@gmail.com) or [visit my portfolio](https://raisubash.com.np/) to discuss your project.
 
