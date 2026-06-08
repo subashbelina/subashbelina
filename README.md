@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://raisubash.com.np/">
-    <img src="assets/subashtextlogo.jpg" alt="Subash Rai - IBM Certified Full-Stack JavaScript Developer" width="500"/>
+    <img src="assets/subashlogo.png" alt="Subash Rai - IBM Certified Full-Stack JavaScript Developer" width="500"/>
   </a>
 </p>
 
