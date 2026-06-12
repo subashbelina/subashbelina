@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">IBM Certified Full Stack JavaScript Developer | AI-Powered Web Apps | Cloud | CI/CD</h3>
+<h3 align="center">IBM Certified Full Stack JavaScript Developer | AI-Powered Web Apps | Cloud | CI/CD & DevOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Available_for_Freelance-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Freelance"/>
